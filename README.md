@@ -21,6 +21,7 @@ In your active theme, add a groups-newsletters folder. You can provide template 
 Default templates, which can also be used to derive your own, are provided in the plugin’s templates folder.
 Included are default `single-story.php` and `taxonomy-newsletter.php` templates.
 
+An example Genesis child theme is available as <a href="https://github.com/itthinx/genesis-sample">Genesis Sample</a>.
 
 Help with theme-specific templates
 ----------------------------------
