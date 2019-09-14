@@ -1,6 +1,22 @@
 groups-newsletters-templates
 ============================
 
+Child Themes
+------------
+
+*Read this* before you continue ...
+
+You can download the following child themes for these popular themes:
+
+- Avada – <a href="https://github.com/itthinx/groups-newsletters-avada">Groups Newsletters Avada</a>
+- Divi – <a href="https://github.com/itthinx/groups-newsletters-divi">Groups Newsletters Divi</a>
+
+We have created these child themes to spare you the details of figuring out how to integrate the Groups Newsletters templates with them. You can simply use the child themes directly or adopt the templates in your own child theme if you are already using one.
+
+For up-to-date information on child themes we provide, please refer to the <a href="http://docs.itthinx.com/document/groups-newsletters/setup/templates/">Templates</a> section of the documentation.
+
+---
+
 Templates for Groups Newsletters
 
 Theme templates for the <a href="http://www.itthinx.com/plugins/groups-newsletters/">Groups Newsletters</a> WordPress plugin.
