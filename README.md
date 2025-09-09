@@ -5,18 +5,6 @@ Theme template examples for the <a href="https://www.itthinx.com/plugins/groups-
 
 This repository gathers theme-specific templates for the legacy templates in Groups Newsletters.
 
-Child Themes
-------------
-
-*Read this* before you continue ...
-
-You can download the following child themes for these popular themes:
-
-- Avada – <a href="https://github.com/itthinx/groups-newsletters-avada">Groups Newsletters Avada</a>
-- Divi – <a href="https://github.com/itthinx/groups-newsletters-divi">Groups Newsletters Divi</a>
-
-We have created these child themes to spare you the details of figuring out how to integrate the Groups Newsletters templates with them. You can simply use the child themes directly or adopt the templates in your own child theme if you are already using one.
-
 Themes
 ------
 
@@ -35,7 +23,16 @@ In your active theme, add a groups-newsletters directory. You can provide templa
 Default templates, which can also be used to derive your own, are provided in the plugin’s <code>templates</code> directory.
 Included are default `single-story.php` and `taxonomy-newsletter.php` templates.
 
-An example Genesis child theme is available as <a href="https://github.com/itthinx/genesis-sample">Genesis Sample</a>.
+Child themes with legacy templates
+----------------------------------
+
+These are child themes for popular themes:
+
+- Avada : <a href="https://github.com/itthinx/groups-newsletters-avada">Groups Newsletters Avada</a>
+- Divi : <a href="https://github.com/itthinx/groups-newsletters-divi">Groups Newsletters Divi</a>
+- Genesis : <a href="https://github.com/itthinx/genesis-sample">Genesis Sample</a>
+
+These child themes integrate templates for Groups Newsletters. The can be used directly or to adapt the templates in your own child theme.
 
 Creating theme-specific templates
 -------------------------------------
